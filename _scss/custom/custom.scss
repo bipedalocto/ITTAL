@@ -1,0 +1,23 @@
+/* 파일 경로: _scss/custom/custom.scss */
+
+/* 1. 눈누 웹 폰트(조선굴림) 불러오기 */
+@font-face {
+    font-family: 'JoseonGulim';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/ChosunGu.woff') format('woff');
+    font-weight: normal;
+    font-display: swap;
+} 
+
+/* 2. 테마 폰트 변수를 조선굴림으로 덮어쓰기 */
+$body-font-family: 'JoseonGulim', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$heading-font-family: 'JoseonGulim', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+/* 3. 폰트 강제 적용 (테마 기본 스타일과 충돌할 경우를 대비하여 확실하게 적용) */
+body {
+  font-family: $body-font-family !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.text-alpha, .text-beta, .text-gamma, .text-delta, .text-epsilon, .text-zeta {
+  font-family: $heading-font-family !important;
+}
