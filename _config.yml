@@ -6,7 +6,5 @@ url: https://bipedalocto.github.io/ITTAL/
 
 color_scheme: dark
 
-head_include: custom.html
-
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
