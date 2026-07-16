@@ -1,6 +1,6 @@
 title: 망한 땅으로
 description: 개짬통 OSR
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.12.0
 
 url: https://bipedalocto.github.io/ITTAL/
 
