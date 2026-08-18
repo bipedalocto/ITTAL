@@ -1,7 +1,7 @@
 ---
 title: 참고 문헌
 parent: 진행자 안내서
-nav_order: 2
+nav_order: 32
 layout: default
 ---
 
