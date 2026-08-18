@@ -1,11 +1,11 @@
 ---
-title: 싸움
+title: 싸움 가이드
 parent: 진행자 안내서
 nav_order: 2
 layout: default
 ---
 
-# 싸움
+# 싸움 가이드
 
 ## 소개
 
