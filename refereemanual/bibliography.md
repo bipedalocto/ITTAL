@@ -12,7 +12,7 @@ layout: default
 * [Yochai Gal의 Cairn 2e](https://cairnrpg.com/)
 * [Chris McDowall의 Into the Odd, Electric Bastionland, Mythic Bastionland 등](https://bastionlandpress.com/)
 * [Ben Milton의 Knave 2e](https://questingbeast.itch.io/knave-second-edition)
-* [Wolves of God: Adventures in Dark Ages England](https://www.drivethrurpg.com/en/product/308470/wolves-of-god-adventures-in-dark-ages-england)
+* [Kevin Crawford의 Wolves of God: Adventures in Dark Ages England](https://www.drivethrurpg.com/en/product/308470/wolves-of-god-adventures-in-dark-ages-england)
 * 헤로도토스의 역사
 
 ## 블로그포스트
