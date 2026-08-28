@@ -20,4 +20,4 @@ layout: default
 
 [절차](procedures.md)는 게임의 진행 방식을 설명합니다.
 
-[세계](ashland.md)는 게임의 무대인 세계의 특징을 간략히 소개합니다.
+[세상](ashland.md)은 게임의 무대가 되는 세계의 특징을 간략히 소개합니다.
