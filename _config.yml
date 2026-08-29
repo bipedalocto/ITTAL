@@ -2,11 +2,8 @@ title: 망한 땅으로
 description: 개짬통 OSR
 remote_theme: just-the-docs/just-the-docs@v0.12.0
 
-url: https://bipedalocto.github.io/ITTAL/
+url: http://intotheashland.xyz/
 
 color_scheme: dark
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 permalink: pretty
